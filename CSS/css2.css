@@ -1,0 +1,29 @@
+body{
+    background-color: #fefefe;
+    align-items: center;
+}
+
+form{
+    background-color: #9fbdc0; 
+    border: 2px solid #061d1f;
+    border-radius: 8px; 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 60%; 
+    text-align: justify; 
+    font-family: Arial, sans-serif; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+
+.botao{
+    background-color: #72aaaf; 
+    border: 1px solid #000000;
+    border-radius: 5px; 
+    padding: 20px; 
+    margin: 10px auto; 
+    width: 5%; 
+    text-align: justify; 
+    font-family: Arial, sans-serif; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+}
